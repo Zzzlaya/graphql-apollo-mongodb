@@ -1,6 +1,6 @@
-# Lyrical-GraphQL
+# GraphQL-Apollo-MongoDB
 
-A pet project built from a GraphQL course on Udemy.com
+A pet project built from a GraphQL course on Udemy.com https://github.com/StephenGrider/Lyrical-GraphQL
 
 ## Quick start
 

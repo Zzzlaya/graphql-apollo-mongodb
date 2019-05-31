@@ -1,17 +1,17 @@
 {
   "name": "lyrical",
-  "version": "1.0.0",
-  "description": "Starter point for a graphQL course",
+  "version": "1.0.1",
+  "description": "A pet project built from a GraphQL course on Udemy.com https://github.com/StephenGrider/Lyrical-GraphQL",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/StephenGrider/Lyrical-GraphQL"
+    "url": "https://github.com/Zzzlaya/graphql-apollo-mongodb"
   },
   "scripts": {
     "dev": "nodemon index.js --ignore client"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Tatiana Trubitcyna",
+  "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.4.0",
     "@babel/preset-env": "^7.4.2",
