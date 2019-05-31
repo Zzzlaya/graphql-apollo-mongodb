@@ -1,0 +1,24 @@
+.songCreateBackToSongs {
+  padding: 0 1em;
+}
+
+.songListItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lyricListItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lyricListLikesWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.lyricListLikesCount {
+  margin: 0 1em 0 0;
+}
